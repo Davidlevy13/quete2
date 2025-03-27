@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Davidlevy13/quete2#readme",
   "dependencies": {
-    "chalk": "^5.4.1"
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7"
   }
 }
